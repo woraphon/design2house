@@ -5194,7 +5194,7 @@ border-bottom-right-radius
 }
 
 .navbar-inverse .navbar-toggle .icon-bar {
-	background-color: #fff
+	background-color: #00ff00
 }
 
 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
@@ -5219,7 +5219,7 @@ border-bottom-right-radius
 	}
 	.navbar-inverse .navbar-nav .open .dropdown-menu>li>a:focus,
 		.navbar-inverse .navbar-nav .open .dropdown-menu>li>a:hover {
-		color: #fff;
+		color: #00ff00;
 		background-color: transparent
 	}
 	.navbar-inverse .navbar-nav .open .dropdown-menu>.active>a,

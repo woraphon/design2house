@@ -38,9 +38,9 @@
    	 					<div class="thumbnail">
       						<img src="<?php echo base_url()?>images/nopic.png" alt="...">
       						<div class="caption">
-        						<h3>Thumbnail label</h3>
-        						<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. </p>
-        						<p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+        						<h3 align="center"> label</h3>
+        						<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. D </p>
+        						<p align="center"><a href="#" class="btn btn-primary" role="button">Button</a> </p>
       						</div>
     					</div>
   					</div>
@@ -48,9 +48,9 @@
    	 					<div class="thumbnail">
       						<img src="<?php echo base_url()?>images/nopic.png" alt="...">
       						<div class="caption">
-        						<h3>Thumbnail label</h3>
-        						<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. </p>
-        						<p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+        						<h3 align="center"> label</h3>
+        						<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. </p>
+        						<p align="center"><a href="#" class="btn btn-primary" role="button">Button</a> </p>
       						</div>
     					</div>
   					</div>
@@ -84,7 +84,7 @@
     		<div class="row">
   			<div class="col-xs-6 col-md-4">
   				<div class="thumbnail">
-  				....
+  			....
   				</div>
   			</div>			
 			<!-- ราคาน้ำมัน -->    		
