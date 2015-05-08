@@ -1,26 +1,30 @@
 	<div class="panel panel-default">  		
   		<div class="panel-footer">
   		<!-- open footer -->
-  		
-  			<div class="row">
   				
-  				<div class="col-md-4">
-  				<div class="jumbotron">
-        		   <p>To see .</p>
-        		</div>
+  		<div class="row">				
+  			<div class="col-md-12">			
+  				<div class="col-md-3">
+  					<div class="panel panel-body">
+  						<a class="" href="<?php echo base_url();?>index.php/menu/home"><img  class="" alt="Brand" src="<?php echo base_url()?>images/logo/logo-d2h-1.png"></a>
+  					</div>
   				</div>
-  				<div class="col-md-4">
-  				<div class="jumbotron">
-        		   <p>To see .</p>
-        		</div>
+  				<div class="col-md-9">
+  					<div class="panel panel-body">
+  						<div class="col-md-12">
+  							<p>000</p>
+  						</div>
+  						<div class="col-md-12">
+  							<hr>
+  						</div>
+  						<div class="col-md-12">
+  							<p align="center">Office - 518/5, 6 floor., Maneeya Center Bldg., Ploenchit Road, Lumpini, Patumwan, Bangkok 10330 Thailand</p>
+        		   			<p align="center">@Copyright by <a style="text-decoration:none" href="http://www.design2house.com">Design2house.com</a></p>
+  						</div>  						
+  					</div>
   				</div>
-  				<div class="col-md-4">
-  				<div class="jumbotron">
-        		   <p>To see .</p>
-        		</div>
-  				</div>
-  			
   			</div>
+  		</div>
   		
   		<!-- close footer -->
   		</div>
