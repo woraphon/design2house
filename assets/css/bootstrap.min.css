@@ -63,7 +63,8 @@ height
 }
 
 a {
-	background-color: transparent
+	background-color: transparent;
+	
 }
 
 a:active, a:hover {
@@ -4793,7 +4794,7 @@ border-bottom-right-radius
 .navbar-brand {
 	float: left;
 	height: 50px;
-	padding: 1px 50px;
+	padding: 1px 40px;
 	font-size: 18px;
 	line-height: 20px
 }
@@ -5861,7 +5862,8 @@ to {
 }
 
 .media {
-	margin-top: 15px
+	margin-top: 15px;
+	
 }
 
 .media:first-child {
