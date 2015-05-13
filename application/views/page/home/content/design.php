@@ -3,7 +3,7 @@
    	 						<div class="media ">
   								<div class="media-left media-middle ">
     								<a href="#">
-      									<img class="media-object " src="<?php echo base_url()?>images/img-design/dh1.jpg" alt="...">
+      									<img class="media-object img-thumbnail" src="<?php echo base_url()?>images/img-design/dh1.jpg" alt="...">
     								</a>
   								</div>
   								<div class="media-body">
