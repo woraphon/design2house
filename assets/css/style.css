@@ -241,7 +241,23 @@ a.boxpic.active,a.boxpic:focus,a.boxpic:hover{border-color:#337ab7}
 	margin-right: auto;
 	margin-left: auto
 }
+.r-text {
+	
+	float:right;
+}
+hr1 {
+	height: 0;
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box
+}
 
+hr1 {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border: 0;
+	border-top: 1px solid #75d51e/* #eee */
+}
 
 
 

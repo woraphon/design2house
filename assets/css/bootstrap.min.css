@@ -100,6 +100,10 @@ h1 {
 	font-size: 2em
 }
 
+h2 {
+  display: inline;
+}
+
 mark {
 	color: #000;
 	background: #ff0
@@ -1425,7 +1429,7 @@ a {
 
 a:focus, a:hover {
 	color: #23527c;
-	text-decoration: underline
+	text-decoration: none
 }
 
 a:focus {
@@ -1559,7 +1563,8 @@ hr {
 }
 
 p {
-	margin: 0 0 10px
+	margin: 0 0 10px;
+	
 }
 
 .lead {
