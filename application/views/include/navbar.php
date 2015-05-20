@@ -18,8 +18,8 @@
              <?php  //$this->view('page/register/form_register');?> -->
              <ul class="nav navbar-nav">
             <li><a href="<?php echo base_url();?>index.php/menu/home">Home</a></li>
-            	<li><a href="<?php echo base_url();?>index.php/menu/about">Design</a></li>
-            	<li><a href="<?php echo site_url('menu/contact');?>">Idea</a></li>
+            	<li><a href="<?php echo base_url();?>index.php/menu/design">Design</a></li>
+            	<li><a href="<?php echo site_url('menu/idea');?>">Idea</a></li>
             	<li class="dropdown">
               		<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="true">Architecture<span class="caret"></span></a>
               		<ul class="dropdown-menu" role="menu">
@@ -36,8 +36,8 @@
                 		<li><a href="<?php echo site_url('menu/contact');?>">ตกแต่งภายใน</a></li>
              		</ul>
             	</li> 	
-            	<li><a href="<?php echo site_url('menu/contact');?>">Condominium</a></li>
-            	<li><a href="<?php echo site_url('menu/contact');?>">New</a></li>
+            	<li><a href="<?php echo site_url('menu/condo');?>">Condominium</a></li>
+            	<li><a href="<?php echo site_url('menu/news');?>">New</a></li>
           </ul>
           </div>
         </div><!--/.nav-collapse -->
