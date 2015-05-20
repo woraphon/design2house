@@ -1,7 +1,7 @@
 
 			<div class="panel panel-danger">
  			<!-- Default panel contents -->
-  			<div class="panel-heading">Category</div>
+  			<div class="panel-heading">Category List</div>
   			<div class="panel-body"> 				
 			<div class="list-group">
   				<a href="#" class="list-group-item"><span class="badge">14</span>PHP Framework</a>
@@ -22,9 +22,9 @@
   				<div class="panel-heading">Panel heading without title</div>
   				<div class="panel-body">
     			<div class="list-group">
-  					<a href="#" class="list-group-item list-group-item-success">Dapibus ac facilisis in</a>
+  					<a href="#" class="list-group-item list-group-item-success"><span class="badge">14</span>Dapibus ac facilisis in</a>
   					<a href="#" class="list-group-item list-group-item-info">Cras sit amet nibh libero</a>
-  					<a href="#" class="list-group-item list-group-item-warning">Porta ac consectetur ac</a>
+  					<a href="#" class="list-group-item list-group-item-warning">Porta ac consectetur ac</a>   
   					<a href="#" class="list-group-item list-group-item-danger">Vestibulum at eros</a>
   					<a href="#" class="list-group-item list-group-item-success">Dapibus ac facilisis in</a>
   					<a href="#" class="list-group-item list-group-item-info">Cras sit amet nibh libero</a>

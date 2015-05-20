@@ -7,11 +7,11 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="<?php echo base_url();?>index.php/menu/home"><img  class="img-thumbnail" alt="Brand" src="<?php echo base_url()?>images/logo/logo-d2h-1.png"></a>
+          <a class="navbar-brand" href="<?php echo base_url();?>index.php/menu/home"><img  class="img-thumbnail" alt="Brand" src="<?php echo base_url()?>images/logo/logo-d2h-6.png"></a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           
-          <div class="nav navbar-nav navbar-right">
+          <div class="nav navbar-nav ">
           	<!--  <button type="button" class="btn btn-info " data-toggle="modal" data-target="#login"> Login </button>
             	<?php // $this->view('page/login/form_login');?>
             <button type="button" class="btn btn-info " data-toggle="modal" data-target="#register"> register </button>

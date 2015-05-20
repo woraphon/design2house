@@ -214,5 +214,56 @@ a.boxpic.active,a.boxpic:focus,a.boxpic:hover{border-color:#337ab7}
 	padding-left:0px;
 	margin-right:auto;
 	margin-left:auto;
-	background-color:#fff;
+	background-color:#ffffff;
 }
+.bg-box {
+	display: block;
+	padding: 4px;
+	margin-bottom: 20px;
+	line-height: 1.42857143;
+	background-color: #fff;
+	border: 1px solid #a0ff42;
+	border-radius: 10px;
+	-webkit-transition: border .2s ease-in-out;
+	-o-transition: border .2s ease-in-out;
+	transition: border .2s ease-in-out
+}
+.cursor-zoom-in {
+	cursor:zoom-in;
+}
+
+.max-box {
+	max-height: 100px;
+}
+.login-box {
+	padding-right: 30%;
+	padding-left: 30%;
+	margin-right: auto;
+	margin-left: auto
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
