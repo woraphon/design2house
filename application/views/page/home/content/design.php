@@ -19,10 +19,10 @@
   									<img data-toggle="modal" data-target=".data4" class="img-responsive img-thumbnail cursor-zoom-in" src="<?php echo base_url()?>images/img-new/th4.jpg" alt="..." width="15%" height="15%">
   									<img data-toggle="modal" data-target=".data5" class="img-responsive img-thumbnail cursor-zoom-in" src="<?php echo base_url()?>images/img-new/th5.jpg" alt="..." width="15%" height="15%">
   									<img data-toggle="modal" data-target=".data6" class="img-responsive img-thumbnail cursor-zoom-in" src="<?php echo base_url()?>images/img-new/th6.jpg" alt="..." width="15%" height="15%">
-  									<hr/>
   								</div>
   							</div>
-  						</div>	
+  							<div class="col-md-12"><hr/></div>
+  						</div>							
   					</div>
 					<div class="col-sm-12 col-md-12 ">
 						<div class="col-md-12">
@@ -45,9 +45,9 @@
   									<img data-toggle="modal" data-target=".data4" class="img-responsive img-thumbnail cursor-zoom-in" src="<?php echo base_url()?>images/img-new/th4.jpg" alt="..." width="15%" height="15%">
   									<img data-toggle="modal" data-target=".data5" class="img-responsive img-thumbnail cursor-zoom-in" src="<?php echo base_url()?>images/img-new/th5.jpg" alt="..." width="15%" height="15%">
   									<img data-toggle="modal" data-target=".data6" class="img-responsive img-thumbnail cursor-zoom-in" src="<?php echo base_url()?>images/img-new/th6.jpg" alt="..." width="15%" height="15%">
-  									<hr/>
   								</div>
   							</div>
+  							<div class="col-md-12"><hr/></div>
   						</div>	
   					</div>
   					<div class="col-sm-12 col-md-12 ">
@@ -71,9 +71,9 @@
   									<img data-toggle="modal" data-target=".data4" class="img-responsive img-thumbnail cursor-zoom-in" src="<?php echo base_url()?>images/img-new/th4.jpg" alt="..." width="15%" height="15%">
   									<img data-toggle="modal" data-target=".data5" class="img-responsive img-thumbnail cursor-zoom-in" src="<?php echo base_url()?>images/img-new/th5.jpg" alt="..." width="15%" height="15%">
   									<img data-toggle="modal" data-target=".data6" class="img-responsive img-thumbnail cursor-zoom-in" src="<?php echo base_url()?>images/img-new/th6.jpg" alt="..." width="15%" height="15%">
-  									<hr/>
   								</div>
   							</div>
+  							<div class="col-md-12"><hr/></div>
   						</div>	
   					</div>
   	<!-- model -->

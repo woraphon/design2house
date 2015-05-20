@@ -17,14 +17,25 @@
 			$this->load->view('page/home/home');
 		}
 		
-		function about(){
+		function design(){
 			
-			$this->load->view('page/about/index');
+			$this->load->view('page/design/index');
 		}
 		
-		function contact(){
+		function idea(){
 			
-			$this->load->view('page/contact/index');
+			$this->load->view('page/idea/index');
+		}
+		function architecture(){
+				
+			$this->load->view('page/architecture/index');
+		}
+		function condo(){
+				
+			$this->load->view('page/condo/index');
+		}
+		function news(){
+			$this->load->view('page/news/index');
 		}
 		
 		/* Tutorial */

@@ -17,11 +17,11 @@
             <button type="button" class="btn btn-info " data-toggle="modal" data-target="#register"> register </button>
              <?php  //$this->view('page/register/form_register');?> -->
              <ul class="nav navbar-nav">
-            <li><a href="<?php echo base_url();?>index.php/menu/home">หน้าแรก</a></li>
-            	<li><a href="<?php echo base_url();?>index.php/menu/about">ลงประกาศขาย-เช่า</a></li>
-            	<li><a href="<?php echo site_url('menu/contact');?>">คอนโดมิเนียม</a></li>
+            <li><a href="<?php echo base_url();?>index.php/menu/home">Home</a></li>
+            	<li><a href="<?php echo base_url();?>index.php/menu/about">Design</a></li>
+            	<li><a href="<?php echo site_url('menu/contact');?>">Idea</a></li>
             	<li class="dropdown">
-              		<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="true">แบบบ้าน<span class="caret"></span></a>
+              		<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="true">Architecture<span class="caret"></span></a>
               		<ul class="dropdown-menu" role="menu">
                 		<li><a href="<?php echo site_url('menu/php');?>">แบบบ้านตามขนาด</a></li>
                 		<li class="divider"></li>               
@@ -36,9 +36,8 @@
                 		<li><a href="<?php echo site_url('menu/contact');?>">ตกแต่งภายใน</a></li>
              		</ul>
             	</li> 	
-            	<li><a href="<?php echo site_url('menu/contact');?>">แบ่งตามสไตล์</a></li>
-            	<li><a href="<?php echo site_url('menu/contact');?>">เรื่องน่ารู้</a></li>
-            	<li><a href="<?php echo site_url('menu/contact');?>">ติดต่อลงโฆษณา</a></li>
+            	<li><a href="<?php echo site_url('menu/contact');?>">Condominium</a></li>
+            	<li><a href="<?php echo site_url('menu/contact');?>">New</a></li>
           </ul>
           </div>
         </div><!--/.nav-collapse -->
