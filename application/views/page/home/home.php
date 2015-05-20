@@ -53,7 +53,7 @@
 
 <!------ Tab Update ------------------------------------------------->	
 		<div class="panel panel-danger">
-  			<div class="panel-heading"><a href="#" style="text-decoration:none">Hilight Idea</a></div>
+  			<div class="panel-heading"><a href="#" style="text-decoration:none">Home Idea</a></div>
   				<div class="panel-body">
   					<div class="row">
   						<?php $this->view('page/home/content/idea');?>
