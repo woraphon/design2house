@@ -22,8 +22,9 @@
 		<div class="col-md-9">
 			<!-- <div class="panel panel-info">		
   				<div class="panel-body"> -->
-  				<h2>IDEA</h2>
-					(<a class="r-right" href="#">All Idea</a>) 
+  			<div class="page-header"><h1>IDEA<small>( All Idea)</small></h1></div>
+  				<!-- <h2>IDEA</h2>
+					(<a class="r-right" href="#">All Idea</a>)  -->
 						<p style="border-bottom:1px dotted  #000"></p>
 					<div class="row">
   							<?php $this->view('page/idea/content/all_idea');?>

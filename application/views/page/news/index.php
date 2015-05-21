@@ -22,8 +22,9 @@
 		<div class="col-md-9">
 			<!-- <div class="panel panel-info">		
   				<div class="panel-body"> -->
-  				<h2>ข่าวสาร เรื่องน่ารู้</h2>
-					(<a class="r-right" href="#">All news</a>) 
+  			<div class="page-header"><h1>ข่าวสาร เรื่องน่ารู้<small>( All news)</small></h1></div>
+  				<!-- <h2>ข่าวสาร เรื่องน่ารู้</h2>
+					(<a class="r-right" href="#">All news</a>)  -->
 						<p style="border-bottom:1px dotted  #000"></p>
 					<div class="row">
   							<?php $this->view('page/news/content/all_news');?>

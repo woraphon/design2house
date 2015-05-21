@@ -22,8 +22,9 @@
 		<div class="col-md-9">
 			<!-- <div class="panel panel-info">		
   				<div class="panel-body"> -->
-  				<h2>Condominium</h2>
-					(<a class="r-right" href="#">All Condominium</a>) 
+  			<div class="page-header"><h1>Condominium<small>( All Condominium )</small></h1></div>
+  				<!-- <h2>Condominium</h2>
+					(<a class="r-right" href="#">All Condominium</a>)  -->
 						<p style="border-bottom:1px dotted  #000"></p>
 					<div class="row">
   							<?php $this->view('page/condo/content/all_condo');?>

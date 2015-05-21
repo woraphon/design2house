@@ -22,8 +22,9 @@
 		<div class="col-md-9">
 			<!-- <div class="panel panel-info">		
   				<div class="panel-body"> -->
-  				<h2>แบบบ้าน</h2>
-					(<a class="r-right" href="#">แบบบ้านทั้งหมด</a>) 
+  			<div class="page-header"><h1>แบบบ้าน<small>( แบบบ้านทั้งหมด )</small></h1></div>
+  				<!-- <h2>แบบบ้าน</h2>
+					(<a class="r-right" href="#">แบบบ้านทั้งหมด</a>)  -->
 						<p style="border-bottom:1px dotted  #000"></p>
 					<div class="row">
   							<?php $this->view('page/architecture/content/home_plan');?>
