@@ -9,4 +9,14 @@ class admin extends CI_Controller {
 	function index(){
 		$this->load->view('login/login-form');
 	}
+	
+	function dashboard(){
+	
+		$this->load->view('administrator/index');
+	}
+	
+	function charts(){
+		
+		$this->load->view('administrator/page_admin/charts');
+	}
 }
