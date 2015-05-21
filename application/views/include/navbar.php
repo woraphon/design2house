@@ -12,16 +12,14 @@
 	<div id="navbar" class="navbar-collapse collapse">
 		<div class="nav navbar-nav ">
 			<ul class="nav navbar-nav">
-            	<li><a href="<?php echo base_url();?>index.php/menu/home">Home</a></li>
-            	<li><a href="<?php echo base_url();?>index.php/menu/design">Design</a></li>
-            	<li><a href="<?php echo site_url('menu/idea');?>">Idea</a></li>
-            	<li><a href="<?php echo site_url('menu/architecture');?>">Architecture</a></li>
-            	<li><a href="<?php echo site_url('menu/condo');?>">Condominium</a></li>
-            	<li><a href="<?php echo site_url('menu/news');?>">New</a></li>
+            	<li><a href="<?php echo base_url();?>index.php/menu/home"><i class="fa fa-cog fa-spin "></i> Home</a></li>
+            	<li><a href="<?php echo base_url();?>index.php/menu/design"><i class="fa fa-cog fa-spin"></i> Design</a></li>
+            	<li><a href="<?php echo site_url('menu/idea');?>"><i class="fa fa-cog fa-spin"></i> Idea</a></li>
+            	<li><a href="<?php echo site_url('menu/architecture');?>"><i class="fa fa-cog fa-spin"></i> Architecture</a></li>
+            	<li><a href="<?php echo site_url('menu/condo');?>"><i class="fa fa-cog fa-spin"></i> Condominium</a></li>
+            	<li><a href="<?php echo site_url('menu/news');?>"><i class="fa fa-cog fa-spin"></i> New</a></li>
+            	<li><a href="<?php echo site_url('menu/admin');?>"><i class="fa fa-cog fa-spin"></i> (ทดสอบระบบ admin)</a></li>
 			</ul>
-			<ul class="nav navbar-nav navbar-right">
-            	<li><a href="<?php echo base_url();?>index.php/menu/home">Home</a></li>
-            </ul>
 		</div>
 	</div><!--/.nav-collapse -->
 </div>

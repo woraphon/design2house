@@ -37,6 +37,9 @@
 		function news(){
 			$this->load->view('page/news/index');
 		}
+		function admin(){
+			$this->load->view('administrator/index');
+		}
 		
 		/* Tutorial */
 		
