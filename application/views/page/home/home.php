@@ -6,17 +6,17 @@
 	
 
 <div class="container bghome">	
-	<div class="row">
+	
 		<div class="col-md-12 ">
-			<div class="thumbnail">			
-					<img src="<?php echo base_url()?>images/banner.jpg" alt="...">				
+			<div class="">			
+					<img class="img-thumbnail" src="<?php echo base_url()?>images/banner.jpg" alt="...">				
 			</div>
 		</div>
-	</div>
+
 </div>
 <div class="container bghome">	
-	<div class="col-md-12 ">				
-		<?php $this->view('include/marquee');	?>			
+	<div class="col-md-12 ">					
+			<?php $this->view('include/marquee');	?>	
 	</div>
 </div>		
 <div class="row">
