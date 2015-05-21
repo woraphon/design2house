@@ -14,9 +14,7 @@
 </div>
 <div class="container bghome">	
 	<div class="col-md-12 ">				
-		<MARQUEE>ขออภัยในความไม่สะดวก ขณะนี้ทาง www.design2house.com มีความจำเป็น ต้องปรับปรุงการให้บริการ www.design2house.com ในส่วนนี้ 
-				เพื่อการให้บริการwww.design2house.com ให้มีประสิทธิภาพยิ่งขึ้น ซึ่งจะส่งผลให้หน้าเวปไซต์บางเวป ไม่สามารถให้บริการได้
-				จึงเรียนมาเพื่อขออภัยในความไม่สะดวกในครั้งนี้ด้วย</MARQUEE>				
+		<?php $this->view('include/marquee');	?>			
 	</div>
 </div>
 <div class="container bghome">

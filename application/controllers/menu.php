@@ -40,14 +40,20 @@
 		
 		/* Tutorial */
 		
-		function html(){
-			$this->load->view('page/tutorial/html/index');
+		function size(){
+			$this->load->view('page/architecture/ar_size/index');
 		}
-		function php(){
-			$this->load->view('page/tutorial/php/index');
+		function price(){
+			$this->load->view('page/architecture/ar_price/index');
 		}
-		function css(){
-			$this->load->view('page/tutorial/css/index');
+		function type(){
+			$this->load->view('page/architecture/ar_type/index');
+		}
+		function material(){
+			$this->load->view('page/architecture/ar_meterial/index');
+		}
+		function build(){
+			$this->load->view('page/architecture/ar_build_in/index');
 		}
 		/* End Tutorial */
 		

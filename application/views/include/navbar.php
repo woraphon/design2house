@@ -20,22 +20,7 @@
             <li><a href="<?php echo base_url();?>index.php/menu/home">Home</a></li>
             	<li><a href="<?php echo base_url();?>index.php/menu/design">Design</a></li>
             	<li><a href="<?php echo site_url('menu/idea');?>">Idea</a></li>
-            	<li class="dropdown">
-              		<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="true">Architecture<span class="caret"></span></a>
-              		<ul class="dropdown-menu" role="menu">
-                		<li><a href="<?php echo site_url('menu/php');?>">แบบบ้านตามขนาด</a></li>
-                		<li class="divider"></li>               
-                		<li><a href="<?php echo site_url('menu/php');?>">แบบบ้านตามราคา</a></li>
-                		<li class="divider"></li>                
-                		<li><a href="<?php echo site_url('menu/css');?>">แบ่งตามประเภท</a></li>
-                		<li class="divider"></li>
-                		<li><a href="<?php echo site_url('menu/css');?>">แบ่งตามวัสดุ</a></li>
-                		<li class="divider"></li>
-                		<li><a href="<?php echo site_url('menu/css');?>">แบ่งตามที่ตั้ง</a></li>
-                		<li class="divider"></li>
-                		<li><a href="<?php echo site_url('menu/contact');?>">ตกแต่งภายใน</a></li>
-             		</ul>
-            	</li> 	
+            	<li><a href="<?php echo site_url('menu/architecture');?>">Architecture</a></li>
             	<li><a href="<?php echo site_url('menu/condo');?>">Condominium</a></li>
             	<li><a href="<?php echo site_url('menu/news');?>">New</a></li>
           </ul>
