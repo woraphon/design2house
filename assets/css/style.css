@@ -214,6 +214,13 @@ a.boxpic.active,a.boxpic:focus,a.boxpic:hover{border-color:#337ab7}
 	padding-left:0px;
 	margin-right:auto;
 	margin-left:auto;
+	background-color:#232323;
+}
+.bg-white {
+	padding-right:0px;
+	padding-left:0px;
+	margin-right:auto;
+	margin-left:auto;
 	background-color:#ffffff;
 }
 .bg-box {
@@ -247,10 +254,24 @@ a.boxpic.active,a.boxpic:focus,a.boxpic:hover{border-color:#337ab7}
 }
 
 
+.img_opacity {
+    opacity: 0.4;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
+}
 
+.img_opacity:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100); /* For IE8 and earlier */
+}
 
-
-
+#sponsorAdDiv {
+	position:absolute; 
+	height:1; width:1px; 
+	top:0; 
+	left:0;
+	z-index: +10;
+	
+	}
 
 
 

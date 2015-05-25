@@ -30,7 +30,7 @@
 			</div>
 <!----- open Update ---------------------------------------------------->
       		<div class="panel panel-info">
-  				<div class="panel-heading"><a href="#" style="text-decoration:none">Update! สิ่งน่าสนใจ </a></div>
+  				<div class="panel-heading">Update! สิ่งน่าสนใจ </div>
   					<div class="panel-body">
         				<div class="row">
   							<?php $this->view('page/home/content/new');?>
@@ -40,7 +40,7 @@
 <!------ close update  ---------------------------------------------->
 <!----- open Design---------------------------------------------------->
       		<div class="panel panel-info">
-  				<div class="panel-heading"> <a href="#" style="text-decoration:none">DESIGN</a></div>
+  				<div class="panel-heading"> <a href="#" >DESIGN</a></div>
   					<div class="panel-body">
         				<div class="row">
   							<?php $this->view('page/home/content/design');?>
@@ -50,8 +50,8 @@
 <!------ close Design  ---------------------------------------------->
 
 <!------ Tab Update ------------------------------------------------->	
-		<div class="panel panel-danger">
-  			<div class="panel-heading"><a href="#" style="text-decoration:none">Home Idea</a></div>
+		<div class="panel panel-info">
+  			<div class="panel-heading"><a href="#" >Home Idea</a></div>
   				<div class="panel-body">
   					<div class="row">
   						<?php $this->view('page/home/content/idea');?>
@@ -61,7 +61,7 @@
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------------------------- -->     	      	 		
   		<!-- New ข่าวส่าร ราคาน้ำมัน ราคาทอง อัตราแลกเปลียน -->
 		<div class="panel panel-info">
-  			<div class="panel-heading"><a href="#" style="text-decoration:none">Condo </a></div>
+  			<div class="panel-heading"><a href="#">Condo </a></div>
   				<div class="panel-body">
   					<div class="row">
   						<?php $this->view('page/home/content/condo');?>

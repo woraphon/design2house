@@ -1,9 +1,10 @@
   	<div class="thumbnail"><!-- 16:9 aspect ratio -->
 		<div class="embed-responsive embed-responsive-16by9">
-  			<iframe class="embed-responsive-item" width="100%" height="100%" src="https://www.youtube.com/embed/4eWfRjyp2Nc?autoplay=0" frameborder="1" allowfullscreen></iframe>
+  			<iframe class="embed-responsive-item" width="100%" height="100%" src="https://www.youtube.com/embed/aoe9ST8gQhQ?autoplay=0&rel=0&amp;controls=0&amp;showinfo=0" frameborder="1" allowfullscreen></iframe>
+			<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/aoe9ST8gQhQ?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe> -->
 		</div>
 	</div>
-	<div class="panel panel-danger"><!-- Default panel contents -->
+	<div class="panel panel-info"><!-- Default panel contents -->
   		<div class="panel-heading">Category List</div>
   			<div class="panel-body"> 				
 				<div class="list-group">
@@ -24,63 +25,30 @@
 			</div>
 	</div>
 
-    <div class="panel panel-default">
+    <div class="panel panel-info">
   		<div class="panel-heading">Archive</div>
   			<div class="panel-body">
     			<div class="list-group">
   					<a href="#" class="list-group-item list-group-item-warning"><span class="badge">17</span>2015</a>
-  					<a href="#" class="list-group-item list-group-item-info"><span class="badge">48</span>2015</a>
+  					<a href="#" class="list-group-item list-group-item-info"><span class="badge">48</span>2014</a>
 				</div>
   			</div>
 	</div>
   			
-  	<div class="panel panel-default">
+  	<div class="panel panel-info">
   		<div class="panel-heading">Hilight Idea</div>
   			<div class="panel-body">
+  			<?php for ($i=1;$i<=5;$i++)
+				{ ?>
     			<div class= "col-md-12 ">
   					<div class="col-md-12 text-center">
-  						<a href="#" ><img class=" img-responsive img-thumbnail" src="http://placehold.it/900x600" alt="..."></a>
+  						<a href="#" ><img class="img_opacity img-responsive img-thumbnail" src="<?php echo base_url()?>images/img-design/dh<?php echo $i?>.jpg" alt="..."></a>
   					</div>
   					<div class="col-md-12">
   						<h5 class="text-center"><a style="text-decoration:none;font-size:10;" href="#">Middle aligned media</a></h5>
   						<hr>	
   					</div>
   				</div>
-  				<div class= "col-md-12 ">
-  					<div class="col-md-12 text-center">
-  						<a href="#" ><img class=" img-responsive img-thumbnail" src="<?php echo base_url()?>images/img-design/dh2.jpg" alt="..."></a>
-  					</div>
-  					<div class="col-md-12">
-  						<h5 class="text-center"><a style="text-decoration:none;font-size:10;" href="#">Middle aligned media</a></h5>
-  						<hr>	
-  					</div>
-  				</div>
-  				<div class= "col-md-12 ">
-  					<div class="col-md-12 text-center">
-  						<a href="#" ><img class=" img-responsive img-thumbnail" src="<?php echo base_url()?>images/img-design/dh3.jpg" alt="..."></a>
-  					</div>
-  					<div class="col-md-12">
-  						<h5 class="text-center"><a style="text-decoration:none;font-size:10;" href="#">Middle aligned media</a></h5>
-  						<hr>	
-  					</div>
-  				</div>
-  				<div class= "col-md-12 ">
-  					<div class="col-md-12 text-center">
-  						<a href="#" ><img class=" img-responsive img-thumbnail" src="<?php echo base_url()?>images/img-design/dh4.jpg" alt="..."></a>
-  					</div>
-  					<div class="col-md-12">
-  						<h5 class="text-center"><a style="text-decoration:none;font-size:10;" href="#">Middle aligned media</a></h5>
-  						<hr>	
-  					</div>
-  				</div>
-  				<div class= "col-md-12">
-  					<div class="col-md-12 text-center">
-  						<a href="#" ><img class=" img-responsive" src="<?php echo base_url()?>images/img-design/dh5.jpg" alt="..."></a>
-  					</div>
-  					<div class="col-md-12">
-  						<h5 class="text-center"><a style="text-decoration:none;font-size:10;" href="#">Middle aligned media</a></h5>
-  						<hr>	
-  					</div>
-  				</div>
+  			<?php }?>
   			</div>
 	</div>

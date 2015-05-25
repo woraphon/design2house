@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
+    <meta name="stats-in-th" content="6cee" />
     <link rel="icon" href="<?php echo base_url()?>images/icon/home.ico">
 	<title>Design2House.com | แบบบ้าน แต่งบ้าน เฟอร์นิเจอร์ ตกแต่งบ้าน คอนโดมิเนียมแบบบ้านชั้นเดียว บ้านสวย บ้านไม้ ห้องนอน ห้องนั่งเล่น ห้องครัว ห้องน้ำ บ้านและสวน ตกแต่งภายใน บ้านสองชั้น แบบบ้านฟรี</title>
 

@@ -6,8 +6,8 @@
 <div class="container bghome">	
 	<div class="row">
 		<div class="col-md-12 ">
-			<div class="thumbnail">			
-					<img src="<?php echo base_url()?>images/banner.jpg" alt="...">				
+			<div class="">			
+					<img class="img-thumbnail"src="<?php echo base_url()?>images/banner.jpg" alt="...">				
 			</div>
 		</div>
 	</div>
@@ -24,8 +24,8 @@
   				<div class="panel-body"> -->
   			<div class="page-header"><h1>IDEA<small>( All Idea)</small></h1></div>
   				<!-- <h2>IDEA</h2>
-					(<a class="r-right" href="#">All Idea</a>)  -->
-						<p style="border-bottom:1px dotted  #000"></p>
+					(<a class="r-right" href="#">All Idea</a>)  
+						<p style="border-bottom:1px dotted  #000"></p>-->
 					<div class="row">
   							<?php $this->view('page/idea/content/all_idea');?>
 					</div>

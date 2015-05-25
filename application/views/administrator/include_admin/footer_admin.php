@@ -4,7 +4,7 @@
   			<div class="row">						
   				<div class="col-md-12">
   						<p align="center" class="hidden-xs">Office - 518/5, 6 floor., Maneeya Center Bldg., Ploenchit Road, Lumpini, Patumwan, Bangkok 10330 Thailand</p>
-        		   		<p align="center">@Copyright by <a style="text-decoration:none" href="http://www.design2house.com">Design2house.com</a></p>
+        		   		<p align="center">@Copyright by <a style="text-decoration:none" href="http://www.design2house.com">Design2house.com</a><script type="text/javascript" language="javascript1.1" src="http://tracker.stats.in.th/tracker.php?sid=64016"></script><noscript><a target="_blank" href="http://www.stats.in.th/">www.Stats.in.th</a></noscript></p>
   				</div>  							
   			</div>
   		</div>
